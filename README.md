@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Jesus Alfonzo</h1>
 <h3 align="center">Apasionado estudiante de programación.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalfonzo&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalfonzo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalfonzo&label=Profile%20views&color=1486ff&style=flat-square" alt="jesusalfonzo" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Astro, Python**
+- 🌱 I’m currently learning **Astro, Python**
 
-- 📫 Puedes contactarme por **jesusalfonzo.code@gmail.com**
+- 📫 How to reach me **jesusalfonzo.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
