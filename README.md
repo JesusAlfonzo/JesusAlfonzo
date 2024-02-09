@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalfonzo&label=Profile%20views&color=1486ff&style=flat-square" alt="jesusalfonzo" /> </p>
 
-- 🌱 I’m currently learning **Astro, Python**
+- 🌱 Actualmente estoy aprendiendo **Astro, Python**
 
-- 📫 How to reach me **jesusalfonzo.code@gmail.com**
+- 📫 Puedes contactarme **jesusalfonzo.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
