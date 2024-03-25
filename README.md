@@ -1,4 +1,4 @@
-![Jesus Alfonzo](https://github.com/JesusAlfonzo/JesusAlfonzo/assets/81721842/59f94651-731d-4e70-902f-0a7479b9b254)
+![Jesus Alfonzo (1)](https://github.com/JesusAlfonzo/JesusAlfonzo/assets/81721842/766d4210-ef39-4d2e-aebd-4a9613a28843)
 <h1 align="center">Hola 👋, Soy Jesus Alfonzo</h1>
 <h3 align="center">Apasionado estudiante de programación.</h3>
 
