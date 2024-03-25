@@ -1,3 +1,4 @@
+![Jesus Alfonzo](https://github.com/JesusAlfonzo/JesusAlfonzo/assets/81721842/59f94651-731d-4e70-902f-0a7479b9b254)
 <h1 align="center">Hola 👋, Soy Jesus Alfonzo</h1>
 <h3 align="center">Apasionado estudiante de programación.</h3>
 
