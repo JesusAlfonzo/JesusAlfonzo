@@ -2,8 +2,6 @@
 
 ### Un desarrollador backend principiante
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JesusAlfonzo" alt="JesusAlfonzo" /></a> </p>
-
 - 🔭 Actualmente Estoy Trabajando En: **Un proyecto de autenticación con Next.js**
 
 - 🌱 Estoy Aprendiendo: **TypeScript, Next.Js, FastAPI**
