@@ -2,9 +2,9 @@
 
 ### Un desarrollador backend principiante
 
-- 🔭 Actualmente Estoy Trabajando En:  **Un proyecto de autenticación con Next.js**
+- 🔭 Actualmente Estoy Trabajando En:  **Un ERP con TypeScript y Node.JS*
 
-- 🌱 Estoy Aprendiendo:  **TypeScript, Next.Js, FastAPI**
+- 🌱 Estoy Aprendiendo:  **C#, TypeScript, Next.Js, FastAPI**
 
 - 👯 Quisiera Colaborar en Proyectos de:  **Open Source**
 
