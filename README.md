@@ -2,7 +2,7 @@
 
 ### Un desarrollador backend principiante
 
-- 🔭 Actualmente Estoy Trabajando En:  **Un ERP con TypeScript y Node.JS*
+- 🔭 Actualmente Estoy Trabajando En:  **Un ERP con TypeScript y Node.JS**
 
 - 🌱 Estoy Aprendiendo:  **C#, TypeScript, Next.Js, FastAPI**
 
